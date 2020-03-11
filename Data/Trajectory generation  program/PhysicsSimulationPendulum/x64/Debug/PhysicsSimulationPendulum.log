@@ -1,0 +1,11 @@
+﻿  Physics.cpp
+d:\backup\bonn uni\master thesis\dvd\trajectory generation  program\physicssimulationpendulum\physics.cpp(207): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+d:\backup\bonn uni\master thesis\dvd\trajectory generation  program\physicssimulationpendulum\physics.cpp(338): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+d:\backup\bonn uni\master thesis\dvd\trajectory generation  program\physicssimulationpendulum\physics.cpp(339): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+d:\backup\bonn uni\master thesis\dvd\trajectory generation  program\physicssimulationpendulum\physics.cpp(541): warning C4244: 'argument': conversion from 'long double' to 'float', possible loss of data
+d:\backup\bonn uni\master thesis\dvd\trajectory generation  program\physicssimulationpendulum\physics.cpp(577): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+  Generating Code...
+  Skipping... (no relevant changes detected)
+  main.cpp
+  PhysicsSimulationPendulum.vcxproj -> D:\backup\Bonn uni\Master thesis\DVD\Trajectory generation  program\x64\Debug\PhysicsSimulationPendulum.exe
+  PhysicsSimulationPendulum.vcxproj -> D:\backup\Bonn uni\Master thesis\DVD\Trajectory generation  program\x64\Debug\PhysicsSimulationPendulum.pdb (Partial PDB)
